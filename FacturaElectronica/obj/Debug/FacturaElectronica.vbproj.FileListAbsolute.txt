@@ -1,0 +1,107 @@
+c:\users\ob soluciones\documents\visual studio 2013\Projects\FacturaElectronica\FacturaElectronica\bin\Debug\FacturaElectronica.exe.config
+C:\Users\OB SOLUCIONES\Documents\Visual Studio 2013\Projects\FacturaElectronica\FacturaElectronica\bin\Debug\FacturaElectronica.exe
+C:\Users\OB SOLUCIONES\Documents\Visual Studio 2013\Projects\FacturaElectronica\FacturaElectronica\bin\Debug\FacturaElectronica.pdb
+C:\Users\OB SOLUCIONES\Documents\Visual Studio 2013\Projects\FacturaElectronica\FacturaElectronica\bin\Debug\FacturaElectronica.xml
+C:\Users\OB SOLUCIONES\Documents\Visual Studio 2013\Projects\FacturaElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmPrincipal.resources
+C:\Users\OB SOLUCIONES\Documents\Visual Studio 2013\Projects\FacturaElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.Resources.resources
+C:\Users\OB SOLUCIONES\Documents\Visual Studio 2013\Projects\FacturaElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.vbproj.GenerateResource.Cache
+C:\Users\OB SOLUCIONES\Documents\Visual Studio 2013\Projects\FacturaElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.exe
+C:\Users\OB SOLUCIONES\Documents\Visual Studio 2013\Projects\FacturaElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.xml
+C:\Users\OB SOLUCIONES\Documents\Visual Studio 2013\Projects\FacturaElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.pdb
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\bin\Debug\FacturaElectronica.exe.config
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\bin\Debug\FacturaElectronica.exe
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\bin\Debug\FacturaElectronica.pdb
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\bin\Debug\FacturaElectronica.xml
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\bin\Debug\FirmaXadesNet.dll
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\bin\Debug\itextsharp.dll
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\bin\Debug\MetroFramework.Design.dll
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\bin\Debug\MetroFramework.dll
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\bin\Debug\Microsoft.Xades.dll
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\bin\Debug\itextsharp.xml
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmBuscarCertificado.resources
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmConfiguraciones.resources
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmEnviar.resources
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmRespuesta.resources
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmPrincipal.resources
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\obj\Debug\FacturaElectronica.Resources.resources
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\obj\Debug\FacturaElectronica.vbproj.GenerateResource.Cache
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\obj\Debug\FacturaElectronica.exe
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\obj\Debug\FacturaElectronica.xml
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\obj\Debug\FacturaElectronica.pdb
+C:\Users\OB SOLUCIONES\Desktop\Factura Electronica\Factura Electronica\FacturaElectronica\obj\Debug\FacturaElectronica.vbprojResolveAssemblyReference.cache
+R:\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\FacturaElectronica.exe.config
+R:\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.exe
+R:\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.xml
+R:\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.pdb
+R:\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\FacturaElectronica.exe
+R:\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\FacturaElectronica.pdb
+R:\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\FacturaElectronica.xml
+R:\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\itextsharp.dll
+R:\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\MessagingToolkit.QRCode.dll
+R:\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\MetroFramework.Design.dll
+R:\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\MetroFramework.dll
+R:\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\MetroFramework.Fonts.dll
+R:\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\ThoughtWorks.QRCode.dll
+R:\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\itextsharp.xml
+R:\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.vbprojResolveAssemblyReference.cache
+R:\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmBuscarCertificado.resources
+R:\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmConfiguraciones.resources
+R:\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmEnviar.resources
+R:\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmRespuesta.resources
+R:\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmPrincipal.resources
+R:\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.Resources.resources
+R:\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.vbproj.GenerateResource.Cache
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\bin\Debug\FacturaElectronica.exe
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\bin\Debug\FacturaElectronica.exe.config
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\bin\Debug\BouncyCastle.Crypto.dll
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\bin\Debug\FirmaXadesNet.dll
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\bin\Debug\itextsharp.dll
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\bin\Debug\Microsoft.Xades.dll
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\bin\Debug\Newtonsoft.Json.dll
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\bin\Debug\ThoughtWorks.QRCode.dll
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmBuscarCertificado.resources
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmConfiguraciones.resources
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmEnviar.resources
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmRespuesta.resources
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmPrincipal.resources
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\obj\Debug\FacturaElectronica.Resources.resources
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\obj\Debug\FacturaElectronica.vbproj.GenerateResource.Cache
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\obj\Debug\FacturaElectronica.exe
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\obj\Debug\FacturaElectronica.xml
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\obj\Debug\FacturaElectronica.pdb
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\bin\Debug\FacturaElectronica.pdb
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\bin\Debug\FacturaElectronica.xml
+D:\TIOBS\Codigo\facturaelectronica\FacturaElectronica\obj\Debug\FacturaElectronica.vbprojResolveAssemblyReference.cache
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\FacturaElectronica.exe
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\MetroFramework.dll
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\MetroFramework.Fonts.dll
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\FacturaElectronica.exe.config
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\FacturaElectronica.pdb
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\FacturaElectronica.xml
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\BouncyCastle.Crypto.dll
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\FirmaXadesNet.dll
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\itextsharp.dll
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\MetroFramework.Design.dll
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\Microsoft.Xades.dll
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\Newtonsoft.Json.dll
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\bin\Debug\ThoughtWorks.QRCode.dll
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmBuscarCertificado.resources
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmConfiguraciones.resources
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmEnviar.resources
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmRespuesta.resources
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.frmPrincipal.resources
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.Resources.resources
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.vbproj.GenerateResource.Cache
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.exe
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.xml
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.pdb
+C:\TIOBSoluciones\Codigo\FacturacionElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.vbprojResolveAssemblyReference.cache
