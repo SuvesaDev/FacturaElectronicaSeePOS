@@ -6,18 +6,12 @@ FacturaElectronica
 </name>
 </assembly>
 <members>
-<member name="M:FacturaElectronica.Firma.FirmaXML_Xades(System.String,System.String,System.Boolean,System.String)">
+<member name="M:FacturaElectronica.Comunicacion.EnvioDatos(System.String,FacturaElectronica.Recepcion)">
 	<summary>
- Firma XAdES EPES para la Factura Electrónica de Costa Rica
+ Envia los datos a los servidores de Hacienda y obtiene las respuestas necesarias
  </summary>
-	<param name="pathXML">Ruta del folder donde se va a escribir el documento firmado</param>
-</member><member name="M:FacturaElectronica.Firma.GetCertificateByThumbprint(System.String)">
-	<summary>
- El Certificado debe de estar instalado en la computadora o servidor.
- El valor Thumbprint lo encuentras en el tab Details, al final de las propiedades. 
- </summary>
-	<param name="thumbprintCertificado">Debe estar en mayúscula y sin espacios en blanco</param>
-	<returns></returns>
+	<param name="TK">Token que generó Hacienda</param>
+	<param name="objRecepcion">Objeto que contiene todos las variables de comunicación</param>
 </member><member name="P:FacturaElectronica.My.Resources.Resources.ResourceManager">
 	<summary>
   Returns the cached ResourceManager instance used by this class.
@@ -35,12 +29,18 @@ FacturaElectronica
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
-</member><member name="M:FacturaElectronica.Comunicacion.EnvioDatos(System.String,FacturaElectronica.Recepcion)">
+</member><member name="M:FacturaElectronica.Firma.FirmaXML_Xades(System.String,System.String,System.Boolean,System.String)">
 	<summary>
- Envia los datos a los servidores de Hacienda y obtiene las respuestas necesarias
+ Firma XAdES EPES para la Factura Electrónica de Costa Rica
  </summary>
-	<param name="TK">Token que generó Hacienda</param>
-	<param name="objRecepcion">Objeto que contiene todos las variables de comunicación</param>
+	<param name="pathXML">Ruta del folder donde se va a escribir el documento firmado</param>
+</member><member name="M:FacturaElectronica.Firma.GetCertificateByThumbprint(System.String)">
+	<summary>
+ El Certificado debe de estar instalado en la computadora o servidor.
+ El valor Thumbprint lo encuentras en el tab Details, al final de las propiedades. 
+ </summary>
+	<param name="thumbprintCertificado">Debe estar en mayúscula y sin espacios en blanco</param>
+	<returns></returns>
 </member>
 </members>
 </doc>

@@ -33,6 +33,7 @@
     End Sub
 
     Private Sub frmPrincipal_Load(sender As Object, e As EventArgs) Handles Me.Load
-        Me.Text = Me.Text + " v27042020"
+        Me.Text = Me.Text + " v23092022"
     End Sub
+
 End Class

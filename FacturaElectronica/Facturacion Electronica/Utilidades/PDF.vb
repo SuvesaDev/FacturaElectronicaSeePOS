@@ -283,6 +283,13 @@ Namespace OBSoluciones
                 Me.Agregar_Celda(" ", Element.ALIGN_CENTER, 0.75F, 1)
                 Me.Termina_Tabla()
 
+                Dim Observaciones As String = ""
+                Try
+                    Observaciones = _dtsEncabezado.Rows(0).Item("Obs")
+                Catch ex As Exception
+                    Observaciones = ""
+                End Try
+
                 Dim TipoVenta As String = IIf(_dtsEncabezado.Rows(0).Item("CondicionVenta") = "01", "CONTADO", "CREDITO")
                 Me.Crear_Tabla(2)
                 Me.Agregar_Celda("Receptor: " & _dtsEncabezado.Rows(0).Item("Nombre_Receptor"), Element.ALIGN_LEFT, 0, 8)
@@ -292,7 +299,7 @@ Namespace OBSoluciones
                 Me.Agregar_Celda("Teléfono: " & _dtsEncabezado.Rows(0).Item("NumTelefono_Receptor"), Element.ALIGN_LEFT, 0, 8)
                 Me.Agregar_Celda("Orden Compra: " & _dtsEncabezado.Rows(0).Item("OrdenCompra"), Element.ALIGN_LEFT, 0, 8)
                 Me.Agregar_Celda("Correo: " & _dtsEncabezado.Rows(0).Item("CorreoElectronico_Receptor"), Element.ALIGN_LEFT, 0, 8)
-                Me.Agregar_Celda("", Element.ALIGN_LEFT, 0, 8)
+                Me.Agregar_Celda(Observaciones, Element.ALIGN_LEFT, 0, 8)
                 Me.Agregar_Celda(" ", Element.ALIGN_CENTER, 0.75F, 1)
                 Me.Agregar_Celda(" ", Element.ALIGN_CENTER, 0.75F, 1)
                 Me.Termina_Tabla()
