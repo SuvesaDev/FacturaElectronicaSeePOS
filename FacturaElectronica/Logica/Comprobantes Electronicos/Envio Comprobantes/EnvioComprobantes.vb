@@ -413,7 +413,9 @@ Public Class EnvioComprobantes
                                     End If
                                     'Actualizar estados Factura
                                     Select Case enviaFactura.estadoFactura
-                                        Case "aceptado" : Me.Documentos.CambiarEstadoFactura_Aceptada(_IdDocumento)
+                                        Case "aceptado"
+                                            'zoe
+                                            Me.Documentos.CambiarEstadoFactura_Aceptada(_IdDocumento)
                                         Case "rechazado"
                                             Me.Documentos.CambiarEstadoFactura(_IdDocumento, enviaFactura.estadoFactura)
                                             If enviaFactura.MotiviRechazo.IndexOf("firma del comprobante electrónico no es válida") > 0 Then

@@ -117,7 +117,28 @@ Public Class Correo
         End Try
     End Sub
 
+    Private PDF As New OBSoluciones.Utilidades.PDF
+    Private Sub GeneraPDFVenta(_IdFactura As String)
+        Try
+            Dim dtsEncabezado As New DataTable
+            Dim dtsDetalle As New DataTable
+
+            Dim cls As New GestionDatos.Factura
+            dtsEncabezado = cls.Obtener_Factura_43(_IdFactura)
+            dtsDetalle = cls.Obtener_DetallesFactura_43(_IdFactura)
+
+            Me.PDF.Autor = "OBSoluciones"
+            Me.PDF.Titulo = "Comprobantes Electronicos"
+            Me.PDF.CrearFactura(dtsEncabezado.Rows(0).Item("CLAVE"), dtsEncabezado, dtsDetalle)
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+    End Sub
+
     Public Sub EnviarFactura(_IdFactura As String)
+
+        Me.GeneraPDFVenta(_IdFactura)
+
         Dim dt As New DataTable
         Dim Correo, Consecutivo, Clave, Tipo, Cedula, Orden As String
         Correo = ""

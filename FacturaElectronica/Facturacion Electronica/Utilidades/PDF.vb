@@ -35,6 +35,7 @@ Namespace OBSoluciones
             End Property
 
             Public Sub CrearDocumento(_Archivo As String)
+                If File.Exists(_Archivo) Then File.Delete(_Archivo)
                 Me.doc = New Document(PageSize.A4)
                 writer = PdfWriter.GetInstance(doc, New FileStream(_Archivo, FileMode.Create))
                 doc.AddTitle(Me.vTitulo)
